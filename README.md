@@ -1,3 +1,5 @@
+Deutsch | [English](README_EN.md)
+
 # Wie ich arbeite
 
 Ich wollte eigentlich nur zwei Mathematiklehrmittel vergleichen und daraus eine Planung für meine Klasse bauen. Vier Wochen vor dem neuen Schuljahr öffnete ich ChatGPT: Kann KI mir dabei helfen? Es blieb nicht bei dieser einen Frage.
@@ -15,3 +17,5 @@ Meistens beginnt es mit einer Frage: Kann KI das? Dann baue ich eine erste Lösu
 Und manchmal stelle ich mir Fragen wie: Wie könnte metakognitives Arbeiten mit KI aussehen? Oder: Wie bleibt ein Projekt handlungsfähig, wenn jeder LLM-Aufruf wieder bei null beginnt?
 
 Dieses GitHub-Profil zeigt einen Teil dieser Werkstatt. Nicht alles ist fertig. Nicht alles hat funktioniert. Aber jedes Projekt hat mir etwas darüber gezeigt, wie Menschen und KI zusammenarbeiten können, ohne dass der Mensch die Richtung aus der Hand gibt.
+
+→ [Die ausführliche Werkstatt-Erzählung lesen](WORKSHOP_STORY_DE.md)
